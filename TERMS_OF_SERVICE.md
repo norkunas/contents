@@ -38,7 +38,6 @@ Agreement) mentioned below:
     described in this Agreement, but only if User has also signed the written 
     copy of Aciety Cooperation Agreement together with a representative of 
     Aciety.
-       
 1. ### Definitions
     1. Aciety System – an online platform of services, data and products, 
        governed and owned by Aciety.
@@ -51,8 +50,10 @@ Agreement) mentioned below:
     1. Employee – User’s employee (the form of employment may vary and can 
        include but not be limited to work agreements, contracts or any other 
        legal work relations) or a freelance specialist.
-    1. Database – a part of Aciety System that is described in Annex 2.
-    1. Information – the information described in Annex 2 that is provided by 
+    1. Database – a part of Aciety System that is described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2).
+    1. Information – the information described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) that is provided by 
        the User to Aciety System or Aciety.
     1. Intellectual Property – any product, database, invention, enhancements, 
        know-how, brand marks, design solutions, programs and any other works of 
@@ -84,12 +85,16 @@ Agreement) mentioned below:
        in Aciety System and Database, Aciety System User login data, 
        information disclosed by other Users and other publicly non available 
        information except for cases described in this Agreement. Parties agree 
-       that the information listed in Annex 2 may be accessible to other Users.
+       that the information listed in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) may be accessible to 
+       other Users.
     1. CI Discloser - party that discloses CI.
     1. CI Receiver - party that receives CI in any shape or form or becomes 
        aware of such information through some other means.
-    1. Annex – a document listed as Annex 1 or Annex 2, both an integral part 
-       to this Agreement. In any case where terms in this Agreement are 
+    1. Annex – a document listed as 
+       [Annex 1](#aciety-cooperation-agreement-annex-nr-1) or 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2), both an integral 
+       part to this Agreement. In any case where terms in this Agreement are 
        contradicted by the terms in the Annex, Annex supersedes the Agreement.
     1. New Request - a request to create or customize a product, provide 
        services and/or goods for a Client, which a Contractor became aware of 
@@ -102,15 +107,14 @@ Agreement) mentioned below:
        guides in this Agreement and its Annexes and helps the Contractor on 
        completing Work Agreement.
     1. Commission – fee collected by Aciety from Contractor as described in 
-       Annex 1.
+       [Annex 1](#aciety-cooperation-agreement-annex-nr-1).
     1. Referral – User that sends a Lead to Aciety through Aciety System, or 
        via email to Aciety representative.
     1. Referral Compensation – fee paid or service done by Aciety to Referral 
        in exchange for the Lead as described 
-    in Annex 1.
+       in [Annex 1](#aciety-cooperation-agreement-annex-nr-1).
     1. Client Payment – amount of money paid by Client to Contractor for an 
        invoice from Contractor in reference to their Work Agreement.
-
 1. ### Aciety System Services and Terms of Use
     1. Aciety System services consist of:
         1. User account, services profile and portfolio management;
@@ -118,9 +122,10 @@ Agreement) mentioned below:
            Information;
         1. Client Request forms;
         1. Providing statistics and ratings.
-    1. Database description, Database terms of use are listed in Annex 2.
-       Annex 2 can be changed by Aciety at any time in accordance to this
-       Agreement.
+    1. Database description, Database terms of use are listed in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2).
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) can be changed by 
+       Aciety at any time in accordance to this Agreement.
     1. To enable the User to use Aciety System, the Party will receive a 
        username and password to login into the system. This information must 
        not be disclosed to any party unless it is authorized by the User 
@@ -145,37 +150,46 @@ Agreement) mentioned below:
            Aciety.
 1. ### Provision of Data and Data Security
     1. User is obligated to provide Aciety System with the information 
-       specified in Annex 2. User gives Aciety the right to use the information 
-       according to the guidelines described in Annex 2 and make the 
+       specified in [Annex 2](#aciety-cooperation-agreement-annex-nr-2). User 
+       gives Aciety the right to use the information according to the 
+       guidelines described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) and make the 
        information available to other Users. This right cannot be revoked in 
        the event the Agreement is terminated.
     1. During the Request execution a User is obligated to provide Aciety with 
-       the information described in Annex 2, including, but not limited to: 
-       signing the Work Agreement, invoices sent to Client and associated 
-       Client Payments, so that proper partner compensation schedule can be 
-       signed and Commission can be paid out by User to Aciety.
+       the information described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2), including, but not 
+       limited to: signing the Work Agreement, invoices sent to Client and 
+       associated Client Payments, so that proper partner compensation schedule 
+       can be signed and Commission can be paid out by User to Aciety.
     1. When drafting the Work Agreement the User must make sure it incorporates 
        the necessary clauses to allow the provision of data described in 
-       Annex 2. The newest edition of Annex 2 is available in the Aciety System 
-       for all its Users. User is still obligated to provide the data described 
-       in Annex 2 even if the User fails to incorporate the necessary clause in 
-       the Work Agreement. In any case the Contractor/Sub-contractor has full 
-       responsibility and risk associated with Client information handling.
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2). The newest edition 
+       of [Annex 2](#aciety-cooperation-agreement-annex-nr-2) is available in 
+       the Aciety System for all its Users. User is still obligated to provide 
+       the data described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) even if the User 
+       fails to incorporate the necessary clause in the Work Agreement. In any 
+       case the Contractor/Sub-contractor has full responsibility and risk 
+       associated with Client information handling.
     1. User guarantees and provides that for the sake of following this 
        Agreement it has obtained all the necessary permits from competent 
        bodies, shareholders, partners, Employee permits and authorization to 
-       provide Aciety and other Users with the information described in Annex 2 
-       and that provision and use of information to Aciety System is legal.
+       provide Aciety and other Users with the information described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) and that provision 
+       and use of information to Aciety System is legal.
     1. User guarantees that the information it provides is true, complete and 
        accurate and meets the requirements of this Agreement.
     1. User is obligated to inform Aciety of any changes in the information it 
        has provided in Aciety System within five (5) work days from when the 
        change has occurred.
-    1. User agrees that information described in Annex 2 and other data about 
+    1. User agrees that information described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2) and other data about 
        the User (including Client reviews) may be made available to other Users 
-       in the Database according to the guides described in Annex 2, disclosed 
-       during: search for potential Contractors, providing mediation services 
-       and following other rules of this Agreement.
+       in the Database according to the guides described in 
+       [Annex 2](#aciety-cooperation-agreement-annex-nr-2), disclosed during: 
+       search for potential Contractors, providing mediation services and 
+       following other rules of this Agreement.
     1. User is obligated to ensure that data from Aciety System would only be 
        used for purposes described in this Agreement and according to the 
        guides within this Agreement.
@@ -216,9 +230,10 @@ Agreement) mentioned below:
            according to this agreement or hurt the reputation of Aciety and/or 
            any other User.
 1. ### Price and Payment Arrangements
-    1. Contractors pay Commission under conditions described in Annex 1.
+    1. Contractors pay Commission under conditions described in 
+       [Annex 1](#aciety-cooperation-agreement-annex-nr-1).
     1. Referrals receive Referral Compensation under conditions described in
-       Annex 1.
+       [Annex 1](#aciety-cooperation-agreement-annex-nr-1).
     1. All pricing within Annexes does not include VAT. VAT rate applied 
        depends on what is applicable by the current law and regulations at the 
        date the invoice is issued.
@@ -333,7 +348,8 @@ Agreement) mentioned below:
        that any information described in this article will be deleted from 
        every program within the cloud and no trace will be left. Aciety retains 
        the right to gather and save all information, provided by the User, 
-       specified in Annex 2 or any other information specified in this Agreement.
+       specified in [Annex 2](#aciety-cooperation-agreement-annex-nr-2) or any 
+       other information specified in this Agreement.
     1. Such information is not considered CI:
         1. If the CI Receiver is already aware of that information, if there is 
            no CI agreement with the CI Discloser and there are no other 
@@ -477,8 +493,8 @@ Agreement) mentioned below:
     1. User has no right to transfer its rights or obligations under this 
        Agreement to any 3rd party without a written consent from Aciety.
     1. Annexes:
-        1. Annex 1;
-        1. Annex 2;
+        1. [Annex 1](#aciety-cooperation-agreement-annex-nr-1);
+        1. [Annex 2](#aciety-cooperation-agreement-annex-nr-2);
 
 ## Aciety Cooperation Agreement Annex Nr. 1
 
@@ -532,7 +548,6 @@ the Agreement.
        advertised to particular Clients or any other 3rd party. User also 
        agrees that Aciety will rate the Users and their Employees and this data 
        might be revealed for potential Clients or any other 3rd party.
-
 1. ### Information on the User
     1. User provides such information on themselves that can potentially be
        accessed publicly:
@@ -553,13 +568,11 @@ the Agreement.
        Aciety only:
         1. Hourly rates (broad pricing range can be made public);
         1. Non-disclosure agreement based portfolio items.
-
 1. ### Aciety Search Data
     1. With a goal to continuously improve its service quality Aciety tracks 
        the search engine activity and register the events including, but not 
        limited to all information directly related to search query and User or 
        visitor behavior in process of such query.
-
 1. ### User Agreements with Clients
     1. Upon signing Work Agreement with any of the Clients, each User must
        provide such information to Aciety via email, or other means identified 
