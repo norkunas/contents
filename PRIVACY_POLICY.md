@@ -117,8 +117,8 @@ distribute and exploit such Unsolicited Information without limitation or
 attribution.
 
 ## Children
-Aciety does not knowingly collect Personal Data from children under the age of 
-13. If you are under the age of 13, please do not submit any Personal Data 
+Aciety does not knowingly collect Personal Data from children under the age
+of 13. If you are under the age of 13, please do not submit any Personal Data 
 through the Site. We encourage parents and legal guardians to monitor their 
 children’s Internet usage and to help enforce our Privacy Policy by instructing 
 their children never to provide Personal Data on this Site without their 
