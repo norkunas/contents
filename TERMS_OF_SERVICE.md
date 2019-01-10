@@ -6,7 +6,7 @@ https://aciety.com/terms-of-service) apply to:
 UAB “Aciety“, company code 302626251 having its registered address at Studentų g. 67-413, Kaunas, Lithuania (henceforth - Aciety); and
 
 Legal entity represented by its Employee, who registered in Aciety System
-and/or signed [Aciety Cooperation Agreement](https://www.github.com/Aciety/contents/blob/master/docs/aciety_tap_cooperation_agreement_2019_january.docx)
+and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2019_january.docx)
 as a User (henceforth - User); or anyone else given permission to use Aciety
 System with certain restrictions as offered by Aciety’s representatives in any
 offline/online promotional material;
