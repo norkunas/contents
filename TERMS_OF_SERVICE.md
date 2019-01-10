@@ -28,6 +28,36 @@ to the ones that they can;
 Parties who enter Aciety System agree to all Terms of Service (henceforth – 
 Agreement) mentioned below:
 
+# [Agreement](#aciety-cooperation-agreement)
+
+- [The Object of the Agreement](#the-object-of-the-agreement)
+- [Definitions](#definitions)
+- [Aciety System Services and Terms of Use](#aciety-system-services-and-terms-of-use)
+- [Request Distribution](#request-distribution)
+- [Provision of Data and Data Security](#provision-of-data-and-data-security)
+- [Representations and Warranties of the Parties](#representations-and-warranties-of-the-parties)
+- [Price and Payment Arrangements](#price-and-payment-arrangements)
+- [Suspension of the Agreement](#suspension-of-the-agreement)
+- [Competitive Conditions](#competitive-conditions)
+- [Publicity](#publicity)
+- [Intellectual Property Protection](#intellectual-property-protection)
+- [Confidentiality Obligations](#confidentiality-obligations)
+- [Responsibility. Force Majeure](#responsibility-force-majeure)
+- [Validity, Modification and Termination](#validity-modification-and-termination)
+- [Other Terms](#other-terms)
+
+# [Annex 1](#aciety-cooperation-agreement-annex-nr-1)
+
+- [Commission](#commission)
+- [Referral Compensation](#referral-compensation)
+
+# [Annex 2](#aciety-cooperation-agreement-annex-nr-2)
+
+- [Public Use of Data Gathered](#public-use-of-data-gathered)
+- [Information on the User](#information-on-the-user)
+- [Aciety Search Data](#aciety-search-data)
+- [User Agreements with Clients](#user-agreements-with-clients)
+
 ## Aciety Cooperation Agreement
 
 1. ### The Object of the Agreement
