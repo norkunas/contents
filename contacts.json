@@ -1,0 +1,37 @@
+[
+    {
+        "type": "email",
+        "title": "Press",
+        "value": "press@aciety.com"
+    },
+    {
+        "type": "email",
+        "title": "Partnerships",
+        "value": "partnerships@aciety.com"
+    },
+    {
+        "type": "email",
+        "title": "Investors",
+        "value": "investors@aciety.com"
+    },
+    {
+        "type": "address",
+        "title": "Lithuania (HQ)",
+        "value": "Studentų g. 67-413, Kaunas"
+    },
+    {
+        "type": "phone",
+        "title": "Phone (Lithuania)",
+        "value": "+370 63 369 460"
+    },
+    {
+        "type": "address",
+        "title": "Belgium",
+        "value": "Boulevard Louis Schmidt 63, Brussels"
+    },
+    {
+        "type": "phone",
+        "title": "Phone (Belgium)",
+        "value": "+32 477558294"
+    }
+]
