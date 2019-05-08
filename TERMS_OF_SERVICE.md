@@ -3,7 +3,7 @@
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
 
-UAB “Aciety“, company code 302626251 having its registered address at Studentų g. 67-413, Kaunas, Lithuania (henceforth - Aciety); and
+UAB “Aciety“, company registration number 302626251 having its registered address at Studentų g. 67-413, Kaunas, Lithuania (henceforth - Aciety); and
 
 Legal entity represented by its Employee, who registered in Aciety System
 and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2019_january.docx)
