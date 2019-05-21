@@ -23,15 +23,5 @@
         "type": "phone",
         "title": "Phone (Lithuania)",
         "value": "+370 63 369 460"
-    },
-    {
-        "type": "address",
-        "title": "Belgium",
-        "value": "Boulevard Louis Schmidt 63, Brussels"
-    },
-    {
-        "type": "phone",
-        "title": "Phone (Belgium)",
-        "value": "+32 477558294"
     }
 ]
