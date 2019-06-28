@@ -499,7 +499,7 @@ Agreement) mentioned below:
        solve any problems through mutual agreement.
     1. One of the goals of this Agreement – trust building between Aciety and
        its Users and among the Users themselves, forming of a united community,
-       because of this any sort ofdishonest business practice, unauthorised CI
+       because of this any sort of dishonest business practice, unauthorised CI
        disclosure, violating the terms of usage of Aciety System, any sort of
        violation against the Terms of Service will be considered a violation of
        this Agreement essence.
